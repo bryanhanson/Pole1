@@ -3,6 +3,8 @@
 #### Kristina R. Mulry, Bryan A. Hanson & Dana A. Dudle
 #### PLOS One in press, 2015
 
+[![DOI](https://zenodo.org/badge/18285/bryanhanson/Pole1.svg)](https://zenodo.org/badge/latestdoi/18285/bryanhanson/Pole1)
+
 This repository and the associated archive contain the files used to create a paper which has been accepted for publication in the journal *PLOS One*.  It serves as an archive of the original data *and* the process used to prepare the paper.
 
 To create the paper, run the makefile included here.  This will in turn run `R`, which will use the package `knitr` to create the tex file, which `LaTeX` will then process to create the final paper as a pdf.  You will probably need to install a number of `R` packages, see the `Rnw` for the ones you will need.
