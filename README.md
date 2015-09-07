@@ -11,6 +11,9 @@ The final paper produced here is similar to, but not an exact copy of the final 
 
 For details about any step of the process, consult the `Rnw`.
 
+These files are distributed under the GPL-3 license.  For more info, see the [GPL site.](https://gnu.org/licenses/gpl.html)
+
+Questions?  hanson@depauw.edu
 Here is the sessionInfo from when the paper was prepared, in case a package changes at a later date.
 
 ```
